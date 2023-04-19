@@ -17,4 +17,4 @@ Add the following to your app.json:
 4. Navigate to heroku
 5. Select the Metabase project
 6. Navigate to deoploy tab
-7. Click deploy
+7. Click deploy branch
